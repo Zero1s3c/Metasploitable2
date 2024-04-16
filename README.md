@@ -14,9 +14,9 @@ The compressed file is about 800 MB and can take a while to download over a slow
 Once the VM is available on your desktop, open the device, and run it with VMWare Player. Alternatively, you can also use VMWare Workstation or VMWare Server.
 
 # Logging in to Metasploitable 2
-The login for Metasploitable 2 is msfadmin:msfadmin.
+The login for Metasploitable 2 is `msfadmin:msfadmin`
 
-#Identifying Metasploitable 2's IP Address
+# Identifying Metasploitable 2's IP Address
 After you log in to Metasploitable 2, you can identify the IP address that has been assigned to the virtual machine. Just enter ifconfig at the prompt to see the details for the virtual machine.
 
 ```sh
